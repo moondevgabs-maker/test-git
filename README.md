@@ -1,6 +1,5 @@
 # 🚀 Cartão de Visitas Digital - Meu Primeiro Deploy!
 
-![Prévia do Cartão de Visitas](https://i.imgur.com/5a03dd.png)  
 
 Bem-vindo ao repositório do meu primeiro projeto web publicado! Este é um cartão de visitas digital, criado como parte dos meus estudos em desenvolvimento Front-End. O objetivo era aplicar meus conhecimentos de HTML e CSS e aprender o fluxo completo de versionamento com Git e GitHub, desde a criação do código até a publicação online com o GitHub Pages.
 
